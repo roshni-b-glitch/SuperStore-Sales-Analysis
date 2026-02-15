@@ -2,7 +2,7 @@
 # Automated ETL & Executive KPI Dashboard
 
 ## Project Overview
-This project demonstrates an **end-to-end data pipeline and analytics workflow** for operational sales data. It includes:
+This project demonstrates an **end-to-end data pipeline and analytics workflow** for operational sales data. It includes: 
 
 - Ingesting raw operational data files.
 - Performing **Python ETL** (Extract, Transform, Load) with data cleaning, preprocessing, and validation.
